@@ -1,0 +1,36 @@
+a{
+    font-family: Impact;
+    font-size: xx-large;
+    color: black;
+    text-align: center;
+    border:10px solid #987554;
+    margin-left:45%;
+    }
+body{
+
+    background-color:#e4d5b7;
+}
+img{
+    text-align: center;
+    margin-left:40%;
+    
+}
+table{
+
+background-color: #987554;
+font-family: Verdana;
+border:20px solid black;
+margin-left:37%;
+}
+iframe{
+margin-left: 38%;
+}
+p{
+    text-align: center;
+    color:#987554;
+    font-family: Verdana;
+}
+span{
+
+    background-color: 	#d9b99b;
+}
